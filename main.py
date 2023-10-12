@@ -56,7 +56,7 @@ TRUECAPTCHA_APIKEY = os.environ.get("TRUECAPTCHA_APIKEY", "rNirT7v5rMhBdd6xFLrh"
 # Extract key data from your emails, automatically. https://mailparser.io 
 # 30 Emails/Month, 10 inboxes and unlimited downloads for free.
 # 多个mailparser下载链接id请使用空格隔开, 顺序与 EUserv 账号/邮箱一一对应
-MAILPARSER_DOWNLOAD_URL_ID = os.environ.get("MAILPARSER_DOWNLOAD_URL_ID", "jvvlgcmu")
+MAILPARSER_DOWNLOAD_URL_ID = os.environ.get("MAILPARSER_DOWNLOAD_URL_ID", "jvvlgcum")
 # mailparser.io parsed data download base url
 MAILPARSER_DOWNLOAD_BASE_URL = "https://files.mailparser.io/d/"
 
